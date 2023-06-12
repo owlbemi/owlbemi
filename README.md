@@ -1,16 +1,22 @@
-### Howdy 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Owlbemi&fontSize=90)
 
-<!--
-**owlbemi/owlbemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  💻 Languages 💻
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<div align="center">
+  🖼️  Portfolios & Blogs 🖼️
+</div>
+
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+</div>
