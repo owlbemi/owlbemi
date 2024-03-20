@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Owlbemi&fontSize=90)
 
 <div align="center">
+	Jake Lee (이동현)
+	<br/><br/>
 	Based in <b> Seoul, Korea 🇰🇷 </b> and <b> North Dallas, Texas, USA 🇺🇸 </b>
 	<br/><br/>
 	University of Texas at Dallas '24 
 	<br/><br/>
-	Data Science
+	Data Science & Data Analysis and Visualisation
 </div>
 <br/><br/>
 <div align="center">
@@ -16,10 +18,3 @@
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 <br/><br/>
-<div align="center">
-	<h3> 🖼️  Portfolios & Blogs 🖼️ </h3>
-</div>
-<div align="center">
-	<a href = "https://velog.io/@bluejake2"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-  	<a href = "https://owlbemi.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
-</div>
