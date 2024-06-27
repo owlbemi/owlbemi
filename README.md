@@ -3,7 +3,7 @@
 <div align="center">
 	Jake Lee (이동현)
 	<br/><br/>
-	Based in <b> Seoul, Korea 🇰🇷 </b> and <b> North Dallas, Texas, USA 🇺🇸 </b>
+	Based in <b> Dallas, Texas, USA 🇺🇸 </b>
 	<br/><br/>
 	University of Texas at Dallas '24 
 	<br/><br/>
