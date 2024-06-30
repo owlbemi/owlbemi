@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Owlbemi&fontSize=90)
 
 <div align="center">
-	Jake Lee (이동현)
+	<h1>Jake Lee</h1>
 	<br/><br/>
 	Based in <b> Dallas, Texas, USA 🇺🇸 </b>
 	<br/><br/>
