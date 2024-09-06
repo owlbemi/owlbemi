@@ -41,7 +41,9 @@
 	<dt><a href="https://github.com/owlbemi/Wine-Quality-Mini-Project">Wine Quality Mini Project</a></dt>
   	<dd>Linear, Ridge, and Lasso Regression, LOOCV, Best Subset Selection, AIC Criteria</dd>
 	<dt><a href="https://github.com/owlbemi/Introductory-Mini-Project">Introductory Mini Project</a></dt>
-  	<dd>EDA, LDA, Visualisation Plots (sensitivity and ROC curves)</dd>	
+  	<dd>EDA, LDA, Visualisation Plots (sensitivity and ROC curves)</dd>
+	<dt><a href="https://github.com/ysasalas/CS-4372-Assignments">Wine Quality & OLS Regression</a></dt>
+  	<dd>OLS Regression, Hyper-parameter Tuning</dd>
 	</dl>
  	<br/><br/>
  	<h3>Database and mySQL</h3>
