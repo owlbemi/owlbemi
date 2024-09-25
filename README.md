@@ -32,6 +32,10 @@
   	<dd>Simple analysis and data visualisation regarding Aerial Bombing Oeprations during WWII (between U.K. and Germany) </dd>
    	<dt><a href="https://github.com/owlbemi/Seoul-Bike">Seoul Bike (Ttareungi)</a></dt>
   	<dd>Interpretation of Google Maps API and Data Visualisation (in Korean default, English available)</dd>
+	<dt><a href="https://github.com/owlbemi/CS4372Assignment2">Obesity Analysis</a></dt>
+  	<dd>Obesity Analysis, Correlation Heatmap, Prediction Plot, ROC Curves</dd>
+	<dt><a href="https://github.com/owlbemi/AirlineProject">Airline Project</a></dt>
+  	<dd>WIP</dd>
 	</dl>
 	<br/><br/>
     	<h3>Statistical Learning and Statistical Analysis Mini Projects</h3>
