@@ -68,6 +68,8 @@
   	<dd>Implementation of Perceptron and SVM algorithms</dd>
 	<dt><a href="https://github.com/owlbemi/AltTagGen">AltTag Generator</a></dt>
   	<dd>Complex AltTag Generator using Tensorflow and BLIP Model</dd>
+	<dt><a href="https://github.com/owlbemi/CS4372Assignment2">Tree Classification</a></dt>
+  	<dd>Various Tree Classification (RandomForestClassifier, AdaBoostClassifier, Decision Tree, XGBoost)</dd>
 	</dl>
 		
 </dl>
