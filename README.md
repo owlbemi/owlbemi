@@ -70,9 +70,20 @@
   	<dd>Complex AltTag Generator using Tensorflow and BLIP Model</dd>
 	<dt><a href="https://github.com/owlbemi/CS4372Assignment2">Tree Classification</a></dt>
   	<dd>Various Tree Classification (RandomForestClassifier, AdaBoostClassifier, Decision Tree, XGBoost)</dd>
+	<dt><a href="https://colab.research.google.com/drive/1KrV1j1If-ZQYQT4Vpyl1tkkg-qr6t2oh?usp=sharing">Recommendation Systems Lab</a></dt>
+  	<dd>Analyses of various classification algorithms</dd>
 	</dl>
+ 	<h3>Big Data Management (Hadoop, Apache Spark)</h3>
+  	<dl>
+	<dt><a href="https://colab.research.google.com/drive/1yZlghaMf8X9FDWnV-pwWXGoDB3anRwEQ?usp=sharing">SparkSQL Practices</a></dt>
+  	<dd>Simple to complex practices of SparkSQL</dd>
+	<dt><a href="https://colab.research.google.com/drive/1o5p7RlLFgj7kailYwNU0xSwTBiUL2wDm?usp=sharing">Spark w/ RDD and SC</a></dt>
+  	<dd>Practice problems using Spark with RDD and SC</dd>
+   	</dl>
 		
 </dl>
 </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/owlbemi?theme=light&font=Galdeano&ext=activity)
 
 <br/><br/>
