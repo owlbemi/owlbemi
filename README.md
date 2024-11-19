@@ -75,6 +75,7 @@
 	<dt><a href="https://colab.research.google.com/drive/1KrV1j1If-ZQYQT4Vpyl1tkkg-qr6t2oh?usp=sharing">Recommendation Systems Lab</a></dt>
   	<dd>Analyses of various classification algorithms</dd>
 	</dl>
+	<br/><br/>
  	<h3>Big Data Management (Hadoop, Apache Spark)</h3>
   	<dl>
 	<dt><a href="https://colab.research.google.com/drive/1yZlghaMf8X9FDWnV-pwWXGoDB3anRwEQ?usp=sharing">SparkSQL Practices</a></dt>
