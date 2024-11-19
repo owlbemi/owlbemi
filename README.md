@@ -5,7 +5,9 @@
 	<br/><br/>
 	Based in <b> Dallas, Texas, USA 🇺🇸 </b>
 	<br/><br/>
-	University of Texas at Dallas '24 
+	University of Texas at Dallas '24
+	<br/><br/>
+	B.S. in Data Science
 	<br/><br/>
 	Data Science & Data Analysis and Visualisation
 </div>
